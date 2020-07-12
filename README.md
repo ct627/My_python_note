@@ -1,4 +1,4 @@
-# My_python_note
+# My python learning note
 
 This is a python learning note after few courses that the majority of content and code is based on those courses.
 
