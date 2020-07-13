@@ -14,8 +14,6 @@ This is a python learning note after few courses that the majority of content an
 
 ## Index
 
----
-
 1. Basics function (numpy and pandas)
 2. Visualizaton ()
 
