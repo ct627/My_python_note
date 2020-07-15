@@ -1,0 +1,32 @@
+# A. import libraries 
+
+```
+import numpy as np
+import pandas as pd
+from pandas import Series, DataFrame
+from pandas.plotting import scatter_matrix
+
+import matplotlib.pyplot as plt
+from matplotlib import rcParams
+
+import seaborn as sb
+sb.set_style('whitegrid')
+
+%matplotlib inline
+```
+
+# B. Graphics 
+
+```
+
+```
+
+# C. Save Graph
+
+```
+plt.savefig('filename.png')
+plt.show() ## This avoid a blank file.
+## supported formats: eps, pdf, pgf, png, ps, raw, rgba, svg, svgz.
+%pwd 
+## check the save path.
+```
