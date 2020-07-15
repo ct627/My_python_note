@@ -15,7 +15,7 @@ This is a python learning note after few courses that the majority of content an
 ## Index
 
 1. Basics function (numpy and pandas)
-2. Visualization (matplotlib and seaborn)
+2. [Visualization](https://github.com/ct627/My_python_note/blob/master/2.%20Visualization) (matplotlib and seaborn)
 
 
 
