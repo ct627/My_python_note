@@ -1,0 +1,13 @@
+# A. import libraries 
+
+```
+import numpy as np
+import pandas as pd
+from pandas import Series, DataFrame
+from pandas.plotting import scatter_matrix
+```
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# B. 
+[editing]
