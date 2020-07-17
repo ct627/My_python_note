@@ -4,10 +4,19 @@
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
-from pandas.plotting import scatter_matrix
 ```
+
+### Assumptions : Assume we have a dataframe dataset called 'df', and a series object called 'so'.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # B. 
+
+[editing]
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# C. deal with missing value
+
 [editing]
