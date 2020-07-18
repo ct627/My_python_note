@@ -9,7 +9,7 @@ This is a python learning note after few courses that the majority of content an
 
 ## Before starting
 
-- I run Python 3 code using Jupyter lab.
+- I run Python 3 code using Jupyter notebook.
 - This note will include essential learning include advanced data analyze use Numpy, SciPy, and pandas, and then for data visualization, the libraries are Matplotlib and Seaborn, and scikit-learn for machine learning.
 
 ## Index
