@@ -13,6 +13,7 @@ import seaborn as sb
 sb.set_style('whitegrid')
 
 %matplotlib inline
+rcParams['figure.figsize'] = (10,8) ### This will set the figure size to 10 x 8.
 ```
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
