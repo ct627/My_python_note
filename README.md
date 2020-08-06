@@ -15,7 +15,7 @@ This is a python learning note after few courses that the majority of content an
 ## Index
 
 1. [basics function](https://github.com/ct627/My_python_note/blob/master/1.%20basic%20function.ipynb) (numpy and pandas)
-2. [visualization](https://github.com/ct627/My_python_note/blob/master/2.%20Visualization) (matplotlib and seaborn)
+2. [visualization](https://github.com/ct627/My_python_note/blob/master/2.%20visualization.ipynb) (matplotlib and seaborn)
 
 
 
