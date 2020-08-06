@@ -19,4 +19,3 @@ This is a python learning note after few courses that the majority of content an
 
 
 
-...still editing
