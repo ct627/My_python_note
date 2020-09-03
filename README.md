@@ -5,7 +5,6 @@ This is a python learning note after few courses that the majority of content an
 ## Reference courses
 
 - **Python for data science essential training part 1 in Linkedin Learning**
-- 
 
 ## Before starting
 
